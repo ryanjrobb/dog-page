@@ -1,13 +1,13 @@
-# _{Pet page for a dog}_
+# _Pet page for a dog_
 
-#### _{Web page for a dog}, {May 21st, '18}_
+#### _Web page for a dog, May 21st, '18_
 
-#### _**{Pairing Ryan & David}**_
+#### _**Pairing Ryan & David**_
 
 ## Description
 
-_{Series of simple pages hosted for a dog, with navigation.}_
+_Series of simple pages hosted for a dog, with navigation._
 
 ## Technologies used
 
-_{html, css, terminal, atom, and markup}_
+_html, css, terminal, atom, and markup_
